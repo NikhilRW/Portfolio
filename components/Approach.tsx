@@ -5,7 +5,7 @@ import { AnimatePresence, motion } from "framer-motion";
 function Approach() {
   return (
   <section className='py-20' >
-    <h1 className='lg:text-3xl justify-center gap-2 font-bold md:text-2xl sm:text-xl text-lg flex '>
+    <h1 className='lg:text-3xl justify-center gap-2 font-bold md:text-2xl sm:text-xl text-lg flex text-white'>
         My <p className='text-purple'>Approach</p>
     </h1>
       <div className="py-20 flex flex-col lg:flex-row items-center justify-center  gap-4 mx-auto px-8">
